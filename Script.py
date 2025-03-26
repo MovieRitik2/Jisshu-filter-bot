@@ -125,8 +125,7 @@ sɪᴢᴇ ⚙️: {file_size}
 <b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MovieSearchAutoGroupnumber1">MOVIE ADDHA</a>」</b>
-    <b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='@Ritikmoves2'>BOT WONER</a>"""
+    FILE_CAPTION = """<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='@Ritikmoves2'>BOT WONER</a>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
