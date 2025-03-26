@@ -114,16 +114,7 @@ User - {}"""
 📆 Year: {release_date}
 ⭐ Rating: {rating} / 10</b>
 """
-
-    CAPTION = """📂 <b>Filename:</b> <a href='https://t.me/MovieSearchAutoGroup'>{file_name}</a>
-sɪᴢᴇ ⚙️: {file_size}
-•────•────✦✗✦───•────•
-📌 <b>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ :➠</b> <a href='https://t.me/+aAmjR1AgZmRlOGJl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ✨</a>
-🎬 <b>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ :➠</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
-•────•────✦✗✦───•────•
-
-<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
-"""
+   
 
     FILE_CAPTION = """<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='@Ritikmoves2'>BOT WONER</a>"""
     
@@ -302,10 +293,10 @@ sɪᴢᴇ ⚙️: {file_size}
 --------------Verify ID--------------
 ➩ /verify_id - Generate a verification ID for group use only
 --------------Set Ads----------------
-➩ /set_ads {ads name}}#{Times}#{photo URL} - <a href="https://t.me/botmaster55/11">Explain</a>
+➩ /set_ads {ads name}}#{Times}#{photo URL} - <a href="https://t.me/Ritikmoves2">Explain</a>
 ➩ /del_ads - Delete ads
 -------------Top Trending------------
-➩ /setlist {Mirzapur, Money Heist} - <a href=https://t.me/botmaster55/10>Explain</a>
+➩ /setlist {Mirzapur, Money Heist} - <a href=https://t.me/Ritikmoves2>Explain</a>
 ➩ /clearlist - Clear all lists
 </blockquote></b>"""
 
