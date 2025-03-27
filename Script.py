@@ -115,7 +115,6 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
    
-
     FILE_CAPTION = """<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='@Ritikmoves2'>BOT WONER</a>"""
     
 
