@@ -115,9 +115,6 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
    
-    FILE_CAPTION = """<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='@Ritikmoves2'>BOT WONER</a>"""
-    
-
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
