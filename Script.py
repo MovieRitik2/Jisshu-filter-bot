@@ -67,7 +67,7 @@ BOT WORKING PROPERLY 🔥"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ @BOTMASTER55</b>"""
+Bʏ @Ritikmoves2</b>"""
         
     
     STATUS_TXT = """<b><u>🗃 ᴅᴀᴛᴀʙᴀsᴇ 1 🗃</u>
@@ -122,10 +122,10 @@ sɪᴢᴇ ⚙️: {file_size}
 🎬 <b>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ :➠</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
 •────•────✦✗✦───•────•
 
-<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
+<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='https://t.me/MovieSearchAutoGroupnumber1'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MovieSearchAutoGroup">𝐌𝐎𝐕𝐈𝐄 𝐁𝐎𝐒𝐒</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MovieSearchAutoGroupnumber1">𝐌𝐎𝐕𝐈𝐄 𝐁𝐎𝐒𝐒</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
