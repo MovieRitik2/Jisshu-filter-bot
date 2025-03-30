@@ -125,7 +125,7 @@ sɪᴢᴇ ⚙️: {file_size}
 <b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='https://t.me/MovieSearchAutoGroupnumber1'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MovieSearchAutoGroupnumber1">𝐌𝐎𝐕𝐈𝐄 𝐁𝐎𝐒𝐒</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
